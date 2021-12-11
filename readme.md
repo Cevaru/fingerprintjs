@@ -112,7 +112,6 @@ Pro result example:
   "requestId": "HFMlljrzKEiZmhUNDx7Z",
   "visitorId": "kHqPGWS1Mj18sZFsP8Wl",
   "visitorFound": true,
-  "confidence": { "score": 0.995 },
   "incognito": false,
   "browserName": "Chrome",
   "browserVersion": "92.0.4515.107",
